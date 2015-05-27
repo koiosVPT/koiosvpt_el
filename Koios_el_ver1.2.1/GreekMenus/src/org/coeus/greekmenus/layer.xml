@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <attr name="Menu\BuildProject\position" intvalue="700"/>
+    <attr name="Menu\Edit\position" intvalue="300"/>
+    <attr name="Menu\GoTo\position" intvalue="500"/>
+    <attr name="Menu\Help\position" intvalue="1100"/>
+    <attr name="Menu\RunProject\position" intvalue="800"/>
+    <attr name="Menu\Source\position" intvalue="600"/>
+    <attr name="Menu\Tools\position" intvalue="900"/>
+    <attr name="Menu\View\position" intvalue="400"/>
+    <attr name="Menu\Window\position" intvalue="1000"/>
+    <attr name="Toolbars\Build\position" intvalue="500"/>
+    <attr name="Toolbars\Clipboard\position" intvalue="500"/>
+    <attr name="Toolbars\File\position" intvalue="200"/>
+    <attr name="Toolbars\Memory\position" intvalue="700"/>
+    <attr name="Toolbars\UndoRedo\position" intvalue="400"/>
+    <attr name="Toolbars\Άδειο\position" intvalue="650"/>
+    <attr name="Toolbars\Αναίρεση\Επανάληψη\position" intvalue="400"/>
+    <attr name="Toolbars\Αρχείο\position" intvalue="200"/>
+    <attr name="Toolbars\Προχωρημένοι\position" intvalue="600"/>
+    <file name="Favorites_hidden"/>
+    <folder name="Menu">
+        <file name="BuildProject_hidden"/>
+        <file name="Edit_hidden"/>
+        <file name="File_hidden"/>
+        <file name="GoTo_hidden"/>
+        <file name="Help_hidden"/>
+        <file name="RunProject_hidden"/>
+        <file name="Source_hidden"/>
+        <file name="Tools_hidden"/>
+        <file name="Versioning_hidden"/>
+        <file name="View_hidden"/>
+        <file name="Window_hidden"/>
+        <file name="Team_hidden"/>
+        <folder name="Αρχείο">
+            <attr name="position" intvalue="100"/>
+            
+            <file name="org-openide-actions-PageSetupAction.instance" url="org-openide-actions-PageSetupAction.instance">
+                <attr name="position" intvalue="600"/>
+            </file>
+            <!--file name="org-openide-actions-PrintAction.instance" url="org-openide-actions-PrintAction.instance">
+                <attr name="position" intvalue="700"/>
+            </file-->
+            <file name="org-netbeans-modules-print-action-PrintAction.instance" url="org-netbeans-modules-print-action-PrintAction.instance">
+                <attr name="position" intvalue="700"/>
+            </file>
+            <file name="SeparatorA2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="800"/>
+            </file>
+            <file name="org-netbeans-core-actions-SystemExit.instance" url="org-netbeans-core-actions-SystemExit.instance">
+                <attr name="position" intvalue="900"/>
+            </file>
+        </folder>
+
+
+       <folder name="Επεξεργασία">
+            <attr name="position" intvalue="200"/>
+
+          <file name="SeparatorE1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="300"/>
+            </file>
+           <file name="org-openide-actions-CutAction.instance" url="org-openide-actions-CutAction.instance">
+                <attr name="position" intvalue="400"/>
+            </file>
+            <!--file name="org-openide-actions-CopyAction.instance" url="org-openide-actions-CopyAction.instance">
+                <attr name="position" intvalue="500"/>
+            </file-->
+            <file name="org-openide-actions-PasteAction.instance" url="org-openide-actions-PasteAction.instance">
+                <attr name="position" intvalue="600"/>
+            </file>
+            <file name="SeparatorE2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="700"/>
+            </file>
+        </folder>
+
+
+
+        <folder name="Προβολή">
+            <attr name="position" intvalue="300"/>
+            <file name="SeparatorP1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="300"/>
+            </file>
+            <!--file name="org-netbeans-core-windows-actions-ToolbarsListAction.instance" url="org-netbeans-core-windows-actions-ToolbarsListAction.instance">
+                <attr name="position" intvalue="400"/>
+            </file-->
+            <file name="SeparatorP2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="500"/>
+            </file>
+            <!--file name="org-netbeans-modules-editor-MainMenuAction$ShowLineNumbersAction.instance" url="org-netbeans-modules-editor-MainMenuAction$ShowLineNumbersAction.instance">
+                <attr name="position" intvalue="600"/>
+            </file>
+            <file name="org-netbeans-modules-editor-NbCodeFoldingAction.instance" url="org-netbeans-modules-editor-NbCodeFoldingAction.instance">
+                <attr name="position" intvalue="700"/>
+            </file>
+            <file name="org-netbeans-modules-editor-MainMenuAction$ShowToolBarAction.instance" url="org-netbeans-modules-editor-MainMenuAction$ShowToolBarAction.instance">
+                <attr name="position" intvalue="800"/>
+            </file-->
+            <file name="SeparatorP3.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="900"/>
+            </file>
+           <file name="org-netbeans-core-windows-actions-ToggleFullScreenAction.instance" url="org-netbeans-core-windows-actions-ToggleFullScreenAction.instance">
+                <attr name="position" intvalue="1000"/>
+            </file>
+         </folder>
+
+         <folder name="Πρόγραμμα">
+            <attr name="position" intvalue="400"/>
+        </folder>
+
+       <folder name="Επιλογές">
+            <attr name="position" intvalue="500"/>
+        </folder>
+
+         <folder name="Βοήθεια">
+            <attr name="position" intvalue="600"/>
+            <file name="org-netbeans-core-actions-AboutAction.instance" url="org-netbeans-core-actions-AboutAction.instance"/>
+        </folder>
+    </folder>
+
+    <folder name="Toolbars">
+
+        <!--file name="Standard.xml" url="Standard.xml">
+            <attr name="position" intvalue="800"/>
+        </file-->
+          
+        <folder name="Κλιπμποαρντ">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="300"/>
+            <file name="org-openide-actions-CutAction.instance">
+                <attr name="position" intvalue="100"/>
+            </file>
+            <!--file name="org-openide-actions-CopyAction.instance">
+                <attr name="position" intvalue="200"/>
+            </file-->
+            <file name="org-openide-actions-PasteAction.instance">
+                <attr name="position" intvalue="300"/>
+            </file>
+        </folder>
+      
+        <file name="Clipboard_hidden"/>
+        <file name="Build_hidden"/>
+        <file name="File_hidden"/>
+        <file name="UndoRedo_hidden"/>
+    </folder>
+
+
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="runtime.settings" url="runtimeSettings.xml"/>
+        </folder>
+        <folder name="Modes">
+            <folder name="explorer">
+                <file name="projectTabLogical_tc.wstcref_hidden" url="projectTabLogical_tcWstcref.xml"/>
+                <file name="projectTab_tc.wstcref_hidden" url="projectTab_tcWstcref.xml"/>
+                <file name="runtime.wstcref_hidden" url="runtimeWstcref.xml"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>
